@@ -1,7 +1,5 @@
 # Node DB 4 Guided Project
 
--HEROKU DEPLOYED API https://zoo-animals-node.herokuapp.com/ 
-
 -Guided project for **Node DB 4** Module.
 
 ## Prerequisites
